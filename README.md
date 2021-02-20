@@ -45,9 +45,9 @@ You will not automatically receive feedback on your work. If you would like feed
 
 ### Download the files
 
-Download the file IB-Data-Science.zip from the Moodle site and unzip it to get the IB-Data-Science folder. The files are also avaialable on GitHub [here](https://github.com/rv285/IB-Data-Science).
+The files are avaialable on GitHub [here](https://github.com/rv285/IB-Data-Science). You can download all of them in a zip file by clicking the green `Code` button on the top right. (You can also clone the repository if you are familiar with git.)
 
-The folder has three self-study Jupyter notebooks, and three exercise notebooks with the sub-folder called "Exercises". The sub-folder "Data" contains the data files required for the activity.
+Unzip it, and name the folder `IB-Data-Science`. Open the folder and check that it has three self-study Jupyter notebooks, and three exercise notebooks with the sub-folder called "Exercises". The sub-folder "Data" contains the data files required for the activity.
 
 <br>
 
