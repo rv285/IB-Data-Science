@@ -26,34 +26,55 @@ This course is structured similarly to the IA Michaelmas computing course, where
 
 ### Completing exercises
 
-Exercises for each notebook are in the "Exercises" directory. There are *three* exercises to be completed into total
+There are *three* exercise notebooks in the "Exercises" directory. You have to complete all three notebooks and submit them (see  below).
 
 - Use Markdown cells when required to describe what your program is doing.
 - Some exercises include automated testing to provide feedback on the correctness of 
   your implementations.    
   
-You will have to upload you three completed exercise notebooks in *PDF format*. For submission details, including the deadline, please check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011) 
+  
+### Submission and assessment
+
+You will have to upload your three completed exercise notebooks in *PDF format*. In a Jupyter notebook, you can save as pdf by clicking the File menu and clicking "Download as ..."  If for some reason you cannot convert your completed notebooks to pdf, you can upload  the .ipynb files, but pdf is strongly recommended. 
+
+For submission details, including the deadline, please check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011) 
+
+You will not automatically receive feedback on your work. If you would like feedback or have questions about the lab, please drop in to one of the Help Desk sessions. 
+
+<br>
+
+### Download the files
+
+Download the file IB-Data-Science.zip from the Moodle site and unzip it to get the IB-Data-Science folder. The files are also avaialable on GitHub [here](here https://github.com/rv285/IB-Data-Science.git).
+
+The folder has three self-study Jupyter notebooks, and three exercise notebooks with the sub-folder called "Exercises". The sub-folder "Data" contains the data files required for the activity.
 
 <br>
 
 ### Running notebooks
 
+#### Running Jupyter locally on your computer
+
+This is the recommended option and likely to be more straightforward than using Google Colab (see below). As in IA, the [Anaconda](https://www.anaconda.com/download) distribution is recommended. Be sure to download the Python 3 version. 
+
+
 #### Google Colab
 
-[Open in Google Colab](https://colab.research.google.com/github/rv285/IB-Data-Science)
+1. Sign in to Google Drive using your `CRSid@cam.ac.uk` . First upload the IB-Data-Science folder to the Google drive (by clicking the "New" button on the top left of the browser).
 
-Cambridge students/staff: Please sign intp Google Colab using your `CRSid@cam.ac.uk` . 
+1. To open a Python notebook in Colab, navigate to it in the Google Drive browser, right click, choosen "Open with Google Colaboratory".
 
-#### Running locally
+*Important*: If you are using Colab, you will have to mount your Google Drive before running the rest of your notebook. To do this, you just need to uncomment the relevant commands at the top of the notebook and run the cell. Click the link for authentication and follow the instructions.
 
-Jupyter can also be run locally. As in IA, the [Anaconda](https://www.anaconda.com/download) distribution is recommended. Be sure to download the Python 3 version. 
+Also make sure that you use the correct path when you load a file. You can find the path of a file in Google Colab, by navigating to it using the folder icon on the left and right clicking the dots. 
+
+Cambridge students/staff: Please sign into Google Colab using your `CRSid@cam.ac.uk`
 
 <br>
 
 ### Getting help
 
 1. There will be an online Helpdesk during weeks 8 and 9 of Lent Term, and during weeks 0 and 1 of Easter term. For exact dates and times, check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011).
-As mentioned earlier, you are strongly encouraged to get your work marked at a Helpdesk session. 
 
 1. There is a discussion forum on the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011). Please help out by answering questions on the forum. Helping each other is encouraged - if you receive help make sure that you do understand what you have done.  If you need help or have questions, please visit a Helpdesk or post your question on the forum (rather than emailing me directly). 
 
