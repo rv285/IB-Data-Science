@@ -60,6 +60,8 @@ This is the recommended option and likely to be more straightforward than using 
 
 #### Google Colab
 
+If you can't run Jupyter notebooks on your computer, you could use Google Colab. If you are using Colab, I recommend uploading your data onto Google Drive first. Follow these instructions carefully:
+
 1. Sign in to Google Drive using your `CRSid@cam.ac.uk` . First upload the IB-Data-Science folder to the Google drive (by clicking the "New" button on the top left of the browser).
 
 1. To open a Python notebook in Colab, navigate to it in the Google Drive browser, right click, choosen "Open with Google Colaboratory".
