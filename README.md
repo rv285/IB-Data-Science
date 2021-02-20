@@ -11,13 +11,13 @@ This course involves two self-study, interactive Jupyter notebook 'activities', 
 1. Introduction to time series, and using linear regression to model the trend in the time series
 1. Using Fourier analysis and linear regression to model the seasonal variation (periodic components) in a time series 
 
-There is a third _optional_ notebook on model selection, which you are strongly encouraged to go through, but is not compulsory.
+There is a another _optional_ notebook on model selection, which you are strongly encouraged to go through, but is not compulsory.
 
 The notebooks are designed to be completed in order. To complete an activity:
 
 1. Read through a notebook, and change parts of the programs if you want to experiment with what 
    happens - this will help your understanding. 
-1. Complete the exercises for the notebook before moving onto the next activity.
+1. Complete the exercises for the notebook before moving onto the next activity. 
 
 This course is structured similarly to the IA Michaelmas computing course, where you learned the basics of Python programming. As you move through the activities you might need to revise some of the IA notebooks. As in IA, we will be using Python 3. 
 
@@ -26,32 +26,33 @@ This course is structured similarly to the IA Michaelmas computing course, where
 
 ### Completing exercises
 
-Exercises for each notebook are in the "Exercises" directory.
+Exercises for each notebook are in the "Exercises" directory. There are *three* exercises to be completed into total
 
 - Use Markdown cells when required to describe what your program is doing.
 - Some exercises include automated testing to provide feedback on the correctness of 
   your implementations.    
   
-You are required to present your exercise solutions at a Helpdesk or a marking session.  Check the Moodle site for the dates of the Helpdesk sessions and your timetabled marking slot. We **strongly recommend** that you get your solutions marked at a Helpdesk, so that you don't have to attend your marking slot.
-
+You will have to upload you three completed exercise notebooks in *PDF format*. For submission details, including the deadline, please check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011) 
 
 <br>
 
 ### Running notebooks
 
-#### Azure notebook service
+#### Google Colab
 
-You can use the Jupyter service hosted at https://notebooks.azure.com/ . Log in using your CRSid. Clone the project (using the button at the top) before you start to modify the notebooks and work on the exercises. Cloning will create a copy of the project in your own account.
+[Open in Google Colab](https://colab.research.google.com/github/rv285/IB-Data-Science)
+
+Cambridge students/staff: Please sign intp Google Colab using your `CRSid@cam.ac.uk` . 
 
 #### Running locally
 
-Jupyter can also be run locally. As in IA, the [Anaconda](https://www.anaconda.com/download) distribution is recommended. Be sure to download the Python 3 version. Anaconda is also installed in the DPO. If using this option, download the files for the project using the "Download Project" link at the top.
+Jupyter can also be run locally. As in IA, the [Anaconda](https://www.anaconda.com/download) distribution is recommended. Be sure to download the Python 3 version. 
 
 <br>
 
 ### Getting help
 
-1. There will be a Helpdesk in the DPO during weeks 8 and 9 of Lent Term, and during weeks 0 and 1 of Easter term. For exact dates and times, check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011).
+1. There will be an online Helpdesk during weeks 8 and 9 of Lent Term, and during weeks 0 and 1 of Easter term. For exact dates and times, check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011).
 As mentioned earlier, you are strongly encouraged to get your work marked at a Helpdesk session. 
 
 1. There is a discussion forum on the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011). Please help out by answering questions on the forum. Helping each other is encouraged - if you receive help make sure that you do understand what you have done.  If you need help or have questions, please visit a Helpdesk or post your question on the forum (rather than emailing me directly). 
@@ -80,7 +81,7 @@ All text is made available under the Creative Commons Attribution-ShareAlike 4.0
 
 All computer code is released under the MIT license.
 
-The MIT License (MIT) Copyright (c) 2019-2020 Ramji Venkataramanan
+The MIT License (MIT) Copyright (c) 2019-2021 Ramji Venkataramanan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
