@@ -11,7 +11,7 @@ This course involves two self-study, interactive Jupyter notebook 'activities', 
 1. Introduction to time series, and using linear regression to model the trend in the time series
 1. Using Fourier analysis and linear regression to model the seasonal variation (periodic components) in a time series 
 
-There is a another _optional_ notebook on model selection, which you are strongly encouraged to go through, but is not compulsory.
+There is a another optional notebook on model selection, which you are strongly encouraged to go through; but it is not compulsory.
 
 The notebooks are designed to be completed in order. To complete an activity:
 
@@ -21,27 +21,6 @@ The notebooks are designed to be completed in order. To complete an activity:
 
 This course is structured similarly to the IA Michaelmas computing course, where you learned the basics of Python programming. As you move through the activities you might need to revise some of the IA notebooks. As in IA, we will be using Python 3. 
 
-
-<br>
-
-### Completing exercises
-
-There are *three* exercise notebooks in the "Exercises" directory. You have to complete all three notebooks and submit them (see  below).
-
-- Use Markdown cells when required to describe what your program is doing.
-- Some exercises include automated testing to provide feedback on the correctness of 
-  your implementations.    
-  
-  
-### Submission and assessment
-
-You will have to upload your three completed exercise notebooks in *PDF format*. In a Jupyter notebook, you can save as pdf by clicking the File menu and clicking "Download as ..."  If for some reason you cannot convert your completed notebooks to pdf, you can upload  the .ipynb files, but pdf is strongly recommended. 
-
-For submission details, including the deadline, please check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011) 
-
-You will not automatically receive feedback on your work. If you would like feedback or have questions about the lab, please drop in to one of the Help Desk sessions. 
-
-<br>
 
 ### Download the files
 
@@ -55,12 +34,12 @@ Unzip it, and name the folder `IB-Data-Science`. Open the folder and check that 
 
 #### Running Jupyter locally on your computer
 
-This is the recommended option and likely to be more straightforward than using Google Colab (see below). As in IA, the [Anaconda](https://www.anaconda.com/download) distribution is recommended. Be sure to download the Python 3 version. 
+This is the most straightforward option and likely to be easier than using Google Colab (see below). If you haven't already installed Python and Jupyter on your computer, the [Anaconda](https://www.anaconda.com/download) distribution is  recommended. Be sure to download the Python 3 version. 
 
 
 #### Google Colab
 
-If you can't run Jupyter notebooks on your computer, you could use Google Colab. If you are using Colab, I recommend uploading your data onto Google Drive first. Follow these instructions carefully:
+If you can't install and run Jupyter notebooks on your computer, you could use Google Colab. If you are using Colab, I recommend uploading your data onto Google Drive first. Follow these instructions carefully:
 
 1. Sign in to Google Drive using your `CRSid@cam.ac.uk` . First upload the IB-Data-Science folder to the Google drive (by clicking the "New" button on the top left of the browser).
 
@@ -71,6 +50,28 @@ If you can't run Jupyter notebooks on your computer, you could use Google Colab.
 Also make sure that you use the correct path when you load a file. You can find the path of a file in Google Colab, by navigating to it using the folder icon on the left and right clicking the dots. 
 
 Cambridge students/staff: Please sign into Google Colab using your `CRSid@cam.ac.uk`
+
+<br>
+
+
+
+### Completing exercises
+
+There are *three* exercise notebooks in the "Exercises" directory. You have to complete all three notebooks and submit them (see  below).
+
+- Use Markdown cells when required to describe what your program is doing.
+- Some exercises include automated testing to provide feedback on the correctness of 
+  your implementations.    
+ 
+<br>
+  
+### Submission and assessment
+
+You will have to upload your three completed exercise notebooks on Moodle. You can find the submission link, deadline, and other details on check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011) .   
+
+Please upload your notebooks in *PDF format*. In a Jupyter notebook, you can save as pdf by clicking the File menu and clicking "Download as ..."  If for some reason you cannot convert your completed notebooks to pdf, you can upload  the .ipynb files, but pdf is strongly recommended. 
+
+You will not automatically receive feedback on your work. If you would like feedback or have questions about the lab, please drop in to one of the Help Desk sessions. 
 
 <br>
 
