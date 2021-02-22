@@ -21,6 +21,7 @@ The notebooks are designed to be completed in order. To complete an activity:
 
 This course is structured similarly to the IA Michaelmas computing course, where you learned the basics of Python programming. As you move through the activities you might need to revise some of the IA notebooks. As in IA, we will be using Python 3. 
 
+<br>
 
 ### Download the files
 
