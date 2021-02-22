@@ -1,6 +1,6 @@
 ### IB Data Science Coursework
 
-This coursework is for IB students in the Department of Engineering at the University of Cambridge. It uses some of the linear algebra and Fourier analysis concepts covered in IB Paper 7 and Paper 6, respectively. In particular, the relevant material is in Handout 6 of Linear Algebra ("Least squares"), and in Handout 6 of Signal and Data Analysis ("Discrete Fourier Transform"). 
+This coursework is for IB students in the Department of Engineering at the University of Cambridge. It uses some of the linear algebra and Fourier analysis concepts covered in IB Paper 7 and Paper 6, respectively. The relevant material is covered in Handout 6 of Linear Algebra ("Least squares"), and in Handout 6 of Signal and Data Analysis ("Discrete Fourier Transform"). 
 
 <br>
 
