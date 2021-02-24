@@ -6,7 +6,7 @@ This coursework is for IB students in the Department of Engineering at the Unive
 
 ### Structure
 
-This course involves two self-study, interactive Jupyter notebook 'activities', with exercises at the end of each activity. The activity notebooks cover:
+This course involves two self-study, interactive Python notebook 'activities', with exercises at the end of each activity. The activity notebooks cover:
 
 1. Introduction to time series, and using linear regression to model the trend in the time series
 1. Using Fourier analysis and linear regression to model the seasonal variation (periodic components) in a time series 
@@ -25,7 +25,7 @@ This course is structured similarly to the IA Michaelmas computing course, where
 
 ### Download the files
 
-The files are available on GitHub [here](https://github.com/rv285/IB-Data-Science). You can download all of them in a zip file by clicking the green `Code` button on the top right. (You can also clone the repository if you are familiar with git.)
+You can download all the files in a zip file by clicking the green `Code` button on the top right. (You can also clone the repository if you are familiar with git.)
 
 Unzip it, and name the folder `IB-Data-Science`. Open the folder and check that it has three self-study Jupyter notebooks, and three exercise notebooks with the sub-folder called `Exercises`. The sub-folder `Data` contains the data files required for the activity.
 
